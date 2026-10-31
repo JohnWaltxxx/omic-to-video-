@@ -1,0 +1,4 @@
+interface:
+  display_name: "Comic to Video"
+  short_description: "Animate each comic panel with Seedance"
+  default_prompt: "Use $comic-to-video to split the uploaded comic into panels, generate a true Seedance animation for each panel, and assemble the clips in story order."
